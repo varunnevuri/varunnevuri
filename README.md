@@ -1,3 +1,24 @@
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:22d3ee,100:a855f7&height=200&section=header&text=Varun%20Nevuri&fontSize=50&fontColor=ffffff&fontAlignY=40&desc=Engineering%20the%20Future%20One%20Commit%20at%20a%20Time&descSize=16&descAlignY=62" width="100%" />
+</p>
+
+<h2 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=27&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&height=100&lines=Full-Stack+Developer;AI%2FML+Enthusiast;DSA+%7C+Graph+Theory+%7C+Dynamic+Programming;Pre-Final+Year+%40+IIIT+Sonepat" alt="Typing SVG" />
+  </a>
+</h2>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=varunnevuri&label=PROFILE+VIEWS&color=00D4FF&style=flat" />
+  <img src="https://img.shields.io/badge/LEETCODE-900%2B-FFA116?style=flat&logo=leetcode&logoColor=black" />
+  <img src="https://img.shields.io/badge/CONTEST_RATING-1831-00D4FF?style=flat" />
+</p>
+
+---
+
+
+
 # 👋 Hi, I'm Varun Nevuri
 
 <h3 align="center">Software Engineer Intern | Full Stack Developer | DSA Enthusiast</h3>
